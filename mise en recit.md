@@ -7,13 +7,19 @@ Je travaille pour une personne ou pour des collectifs. J'aime raconter les méti
 
 _"Mon métier : mettre en lumière la valeur inestimable de chaque contribution humaine."_
 
+Conversation avec un médecin de ville  
+Hors-série 
+Pour [L'association Coeur de métiers](https://gamma.app/docs/Association-Cur-de-metiers-bzmxann4pd7xsf7?mode=doc)  
+Janvier 2025
+Disponible à [l'Imaginarium à Belfort](https://www.facebook.com/profile.php?id=61566910277324)  
+![Couverture médecin]({% link images/Couverture livretsite.png %})
 
 # Plombier-chauffagiste : du confort au génie climatique     
 Pour [L'association Coeur de métiers](https://gamma.app/docs/Association-Cur-de-metiers-bzmxann4pd7xsf7?mode=doc)  
-Récits de découverte des métiers en tension  
+Collection Découverte des métiers en tension  
 Mai 2024  
-Disponible à [l'Imaginarium à Belfort](https://www.facebook.com/profile.php?id=61566910277324)
-![Couverture]({% link images/Couverture livretsite.png %})
+Disponible à [l'Imaginarium à Belfort](https://www.facebook.com/profile.php?id=61566910277324)  
+![Couverture livret plombier]({% link images/Couverture livretsite.png %})
 
 
 # Histoire du livre "NOUS"
