@@ -14,6 +14,8 @@ Création de la **CIGALES Victoire** le 28 avril 2026 :   accompagnement du [ref
     - Mobilisation pour une gouvernance partagée : questionnaire, analyse et suivi, animation d'un atelier de co-développement    
     - Rédaction d'un livret d'accueil pour les cigalier.es  
     - Représentation du mouvement dans les instances et évènements régionaux
+![Ardoise]({% link images/Damassine 5.jpg %})
+
   
 ## Pour l’association In’Terre ActiV (90)  
 2024 et 2025
