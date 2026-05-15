@@ -7,6 +7,14 @@ Je travaille pour une personne ou pour des collectifs. J'aime raconter les méti
 
 _"Mon métier : mettre en lumière la valeur inestimable de chaque contribution humaine."_
 
+- ### Histoire de la Capeb du Territoire de Belfort
+
+Pour [la Capeb 90](https://www.capeb.fr/territoire-de-belfort)  
+Juillet 2025 
+Disponible à la Capeb 6 rue du Rhône à Belfort
+![Couverture Capeb]({% link images/Capeb-couverturesite.jpg %})
+
+
 - ### Conversation avec un médecin de ville
 Hors-série  
 Pour [L'association Coeur de métiers](https://gamma.app/docs/Association-Cur-de-metiers-bzmxann4pd7xsf7?mode=doc)  
