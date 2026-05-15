@@ -14,13 +14,11 @@ Création de la **CIGALES Victoire** le 28 avril 2026 :   accompagnement du [ref
     - Mobilisation pour une gouvernance partagée : questionnaire, analyse et suivi, animation d'un atelier de co-développement    
     - Rédaction d'un livret d'accueil pour les cigalier.es  
     - Représentation du mouvement dans les instances et évènements régionaux
-![Texte décrivant l'image]({% link images/Damassine 5.jpg %})
-
+![Ardoise]({% link images/Damassine 5.jpg %})
 
   
 ## Pour l’association In’Terre ActiV (90)  
 2024 et 2025
 
 - Diagnostic territorial pour l’implantation d’une école de la transition écologique dans le Nord Franche-Comté. 
-- Coordination saisonnière de l’action Partageons nos fruitiers.   
-![Cagettes de fruits]({% link images/Couthenans 1 camion couthenans.jpg %}) 
+- Coordination saisonnière de l’action Partageons nos fruitiers. 
