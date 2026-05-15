@@ -15,3 +15,14 @@ Journées européennes des métiers d’art
 École d'art de Belfort  avril 2023  
 Pour l'imprim(&)rie  
 ![Porteur de paroles]({% link images/Porteur de parolessite.jpg %}) 
+
+- ### Atelier de découverte de métier   
+Animation inspirée du [Théâtre forum](https://www.theatredelopprime.com/le-th%C3%A9%C3%A2tre-forum)
+   - **Aide à domicile**  
+2021 à 2023  
+Pour [Domicile 90 /Amaëlles](https://www.domicile90.org/)
+![Fly]({% link images/Fly-Raymonde.site.jpeg %})
+   - **Valoriste**  
+2022  
+Pour [ACE Lure](https://chantiersenvironnement.com/)
+![Fly ACE]({% link images/ACEsite.jpeg %}) 
