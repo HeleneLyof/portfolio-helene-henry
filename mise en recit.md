@@ -12,8 +12,6 @@ Pour [FNE  Bourgogne-Franche-Comté](https://www.fne-bfc.fr/)
 Octobre-décembre 2025  
 ![Couverture DE]({% link images/DEsite.jpg %})
 
-
-
 - ### PREFIGS  
 Récit de projet associatif  
 Pour  [In'Terre ActiV](https://interreactiv.assoconnect.com/page/420153-pourquoi-in-terre-activ)  
@@ -21,12 +19,11 @@ Août 2025
 
 ![Couverture Préfigs]({% link images/prefigssite.jpg %})
 
-
 - ### Histoire de la Capeb du Territoire de Belfort
 
 Pour [la Capeb 90](https://www.capeb.fr/territoire-de-belfort)  
-Juillet 2025 
-Disponible à la Capeb 6 rue du Rhône à Belfort
+Juillet 2025  
+Disponible à la Capeb 6 rue du Rhône à Belfort  
 ![Couverture Capeb]({% link images/Capeb-couverturesite.jpg %})
 
 
