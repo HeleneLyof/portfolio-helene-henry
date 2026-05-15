@@ -6,7 +6,7 @@ in_menu: true
 ## **Pour [l’association régionale des CIGALES Bourgogne-Franche-Comté](https://www.cigales-bourgognefranchecomte.fr/) (39)**  
 En CDI 40 h par mois depuis fév 2026  
 - ### Développement de CIGALES (70 et 90)  
-Création de la **CIGALES Victoire** le 28 avril 2026 :   accompagnement du [refuge animalier associatif CVSB] (https://www.facebook.com/profile.php?id=100094593875586)
+Création de la **CIGALES Victoire** le 28 avril 2026 :   accompagnement du [refuge animalier associatif CVSB](https://www.facebook.com/profile.php?id=100094593875586)
 ![Logo]({% link images/logo cvsb.jpg %})
 
 
