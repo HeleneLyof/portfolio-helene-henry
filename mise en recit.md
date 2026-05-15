@@ -7,10 +7,18 @@ Je travaille pour une personne ou pour des collectifs. J'aime raconter les méti
 
 _"Mon métier : mettre en lumière la valeur inestimable de chaque contribution humaine."_
 
-- ### PREFIGS
+- ### Dialogue environnemental
+Pour [FNE  Bourgogne-Franche-Comté](https://www.fne-bfc.fr/)  
+Octobre-décembre 2025  
+![Couverture DE]({% link images/DEsite.jpg %})
+
+
+
+- ### PREFIGS  
 Récit de projet associatif  
 Pour  [In'Terre ActiV](https://interreactiv.assoconnect.com/page/420153-pourquoi-in-terre-activ)  
 Août 2025
+
 ![Couverture Préfigs]({% link images/prefigssite.jpg %})
 
 
