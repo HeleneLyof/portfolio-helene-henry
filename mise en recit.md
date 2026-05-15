@@ -1,6 +1,6 @@
 ---
 title: "Mise en récit"
-order: 1
+order: 2
 in_menu: true
 ---
 # Récit de projet associatif 
