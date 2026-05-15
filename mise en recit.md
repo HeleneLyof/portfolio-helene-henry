@@ -8,3 +8,4 @@ Histoire du livre "NOUS"
 Février 2023
 
 [Pour les soleils du Sundgau](https://www.facebook.com/profile.php?id=100083615966823) 
+![Couverture]({% link images/couv Raconte-toi. pour site.png %}) 
