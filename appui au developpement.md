@@ -20,4 +20,3 @@ Création de la **CIGALES Victoire** le 28 avril 2026 :   accompagnement du [ref
 
 - Diagnostic territorial pour l’implantation d’une école de la transition écologique dans le Nord Franche-Comté. 
 - Coordination saisonnière de l’action Partageons nos fruitiers. 
-![Photo]({% link images/Mandeure Récolte Mme MARTIN Claudine du 22 aout 2025.jpg %}) 
