@@ -20,3 +20,4 @@ Création de la **CIGALES Victoire** le 28 avril 2026 :   accompagnement du [ref
 
 - Diagnostic territorial pour l’implantation d’une école de la transition écologique dans le Nord Franche-Comté. 
 - Coordination saisonnière de l’action Partageons nos fruitiers. 
+![Cagettes de fruits]({% link images/Couthenans 1 camion couthenans.jpg %}) 
