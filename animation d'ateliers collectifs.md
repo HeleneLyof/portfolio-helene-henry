@@ -27,6 +27,10 @@ Journées européennes des métiers d’art
 Pour l'imprim(&)rie  
 ![Porteur de paroles]({% link images/Porteur de parolessite.jpg %}) 
 
+- ### Ateliers badges
+![Texte décrivant l'image]({% link images/Badgessite.jpg %})
+![Texte décrivant l'image]({% link images/Badges2site.jpg %})
+
 - ### Atelier de découverte de métier   
 Animation inspirée du [Théâtre forum](https://www.theatredelopprime.com/le-th%C3%A9%C3%A2tre-forum)
    - **Aide à domicile**  
