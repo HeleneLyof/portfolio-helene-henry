@@ -3,14 +3,25 @@ title: "Animation d'ateliers collectifs"
 order: 5
 in_menu: true
 ---
+- ### Ateliers du FAIRE
+   - **Santé environnementale**   
+Nov 2025
+Maison de l'environnement à Belfort  
+Pour [In'Terre ActiV](https://www.facebook.com/InTerreActiV/)
+![Photo FAIRE]({% link images/Fairesite.jpg %})
+   - **Fanzines**  
+Nov 2025  Lycées Courbet et Diderot-Belfort  
+Pour [In'Terre ActiV](https://www.facebook.com/InTerreActiV/)
+![Texte décrivant l'image]({% link images/Fanzinesite.jpg %})
+
 - ### [Porteur de paroles](https://www.centres-sociaux.fr/porteur-de-paroles/)  
 
-Portes ouvertes de la Damassine  
+   - Portes ouvertes de la Damassine   
 Oct 2025 pour l'association régionale des Cigales BFC
 ![Damassine]({% link images/Damassine 2site.jpg %})
 
 
-**_Le travail rend-il heureux ?_**  
+   - **_Le travail rend-il heureux ?_**  
 Journées européennes des métiers d’art  
 École d'art de Belfort  avril 2023  
 Pour l'imprim(&)rie  
