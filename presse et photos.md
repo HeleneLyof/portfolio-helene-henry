@@ -3,7 +3,12 @@ title: "Presse et photos"
 order: 4
 in_menu: true
 ---
-- ### [L'alsace du 22 juin 2025](https://www.lalsace.fr/sante/2025/07/15/medecin-generaliste-a-belfort-je-refuse-des-patients-car-je-n-y-arrive-plus)
+- ### [Le Trois du 21 septembre 2025](https://www.lalsace.fr/sante/2025/07/15/medecin-generaliste-a-belfort-je-refuse-des-patients-car-je-n-y-arrive-plus)
+  
+Du « coup d’État » au Lion bâché : 40 ans de combats de la Capeb
+
+- ### [L'alsace du 22 juin 2025](https://www.lalsace.fr/sante/2025/07/15/medecin-generaliste-a-belfort-je-refuse-des-patients-car-je-n-y-arrive-plus)  
+Médecin généraliste à Belfort, il refuse des patients car il « n’y arrive plus » 
 
 - ### Séance dédicaces et débat public
 Le 22 février 2025 à la bibliothèque universitaire Lucien Febvre à Belfort. 
