@@ -19,7 +19,7 @@ Août 2025
 
 ![Couverture Préfigs]({% link images/prefigssite.jpg %})
 
-- ### Histoire de la Capeb du Territoire de Belfort
+- ### Histoire de la Capeb du Territoire de Belfort
 
 Pour [la Capeb 90](https://www.capeb.fr/territoire-de-belfort)  
 Juillet 2025  
