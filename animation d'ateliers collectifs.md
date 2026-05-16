@@ -1,6 +1,6 @@
 ---
 title: "Animation d'ateliers collectifs"
-order: 6
+order: 5
 in_menu: true
 ---
 - ### Ateliers du FAIRE

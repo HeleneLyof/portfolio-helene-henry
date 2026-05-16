@@ -1,6 +1,6 @@
 ---
 title: "Presse et photos"
-order: 5
+order: 4
 in_menu: true
 ---
 - ### [Le Trois du 21 septembre 2025](https://www.lalsace.fr/sante/2025/07/15/medecin-generaliste-a-belfort-je-refuse-des-patients-car-je-n-y-arrive-plus)
