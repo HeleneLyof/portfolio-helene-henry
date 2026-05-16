@@ -1,6 +1,6 @@
 ---
 title: "Mise en récit"
-order: 2
+order: 4
 in_menu: true
 ---
 Je travaille pour une personne ou pour des collectifs. J'aime raconter les métiers des gens, leurs expériences (extra)ordinaires mais aussi les actions associatives. 
