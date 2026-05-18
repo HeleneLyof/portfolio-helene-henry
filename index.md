@@ -14,9 +14,9 @@ Rejoignez-moi sur [linkedin](https://www.linkedin.com/feed/)
 
 
 # Mon statut
-Auparavant j'assurais mes prestations uniquement en micro entreprise (La Belle Ouvrage) mais je propose aujourd'hui aux structures de me salarier en CDD ou CDI via le [**Chèque Emploi Associatif**](https://www2.cea.urssaf.fr/ceawebinfo/cms/presentation.html)  qui permet chaque mois des horaires variables et inférieures à un mi-temps.   
+J'assure mes prestations en micro entreprise (La Belle Ouvrage) mais je propose aujourd'hui, aux associations, de me salarier en CDD ou CDI via le [**Chèque Emploi Associatif**](https://www2.cea.urssaf.fr/ceawebinfo/cms/presentation.html)  qui permet chaque mois des horaires variables et inférieures à un mi-temps.   
 
-Ce dispositif offre aux associations une grande flexibilité et me permet de bénéficier d’un cadre sécurisé pour mon activité.
+Ce dispositif offre une grande flexibilité aux employeurs et me permet de bénéficier d’un cadre sécurisé pour mon activité.
 
 # Mon temps de travail
 
