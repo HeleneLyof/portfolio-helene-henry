@@ -7,8 +7,7 @@ in_menu: true
 
 “Je suis chargée de missions au service de l’Économie Sociale et Solidaire.  
 J'accompagne, je soutiens et je coordonne des projets en proposant aux structures de l'ESS des solutions adaptées à leurs besoins et en valorisant la participation de tous les acteurs. "
-![Cartedevisite]({% link images/Hélène Henry.png %})
-
+![Carte de visite]({% link images/Hélène Henry.png %})
 
 Rejoignez-moi sur [linkedin](https://www.linkedin.com/feed/)
 
