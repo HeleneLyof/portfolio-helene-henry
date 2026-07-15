@@ -15,8 +15,8 @@ Rejoignez-moi sur [linkedin](https://www.linkedin.com/feed/)
 # Ce que je recherche
 
 Je suis **chargée de développement** en CDI à 25% d'un temps plein pour [l'association régionale des CIGALES Bourgogne-Franche-Comté](https://www.cigales-bourgognefranchecomte.fr/). 
-J'exerce en toute autonomie des tâches polyvalentes sur le développement de la gouvernance, sur la visibilité de l'offre de services et l'accompagnement de citoyens à la création de clubs sur le 70 et le 90. 
+J'exerce en toute autonomie des tâches polyvalentes sur le développement de la gouvernance de l'association, sur la visibilité de l'offre de services et l'accompagnement de citoyens à la création de clubs sur le 70 et le 90. 
 
-Je serais ravi(e) de compléter cette mission en parallèle, sur un second temps partiel basé dans le Nord Franche-Comté.
+Je recherche à compléter cette mission en parallèle, sur un second temps partiel basé dans le Nord Franche-Comté.
 
-Mes partenaires peuvent me contacter pour connaître mes souplesses de paiement (prestations, chèque emploi associatif...) 
+N'hésitez pas à me contacter pour connaître mes souplesses de paiement (prestations, chèque emploi associatif...) 
