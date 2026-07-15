@@ -12,15 +12,11 @@ J'accompagne, je soutiens et je coordonne des projets en proposant aux structure
 Rejoignez-moi sur [linkedin](https://www.linkedin.com/feed/)
 
 
-# Mon statut
-J'assure mes prestations en micro entreprise (La Belle Ouvrage) mais je propose aujourd'hui, aux associations, de me salarier en CDD ou CDI via le [**Chèque Emploi Associatif**](https://www2.cea.urssaf.fr/ceawebinfo/cms/presentation.html)  qui permet chaque mois des horaires variables et inférieures à un mi-temps.   
+# Ce que je recherche
 
-Ce dispositif offre une grande flexibilité aux employeurs et me permet de bénéficier d’un cadre sécurisé pour mon activité.
+Je suis **chargée de développement** en CDI à 25% d'un temps plein pour [l'association régionale des CIGALES Bourgogne-Franche-Comté](https://www.cigales-bourgognefranchecomte.fr/). 
+J'exerce en toute autonomie des tâches polyvalentes sur le développement de la gouvernance, sur la visibilité de l'offre de services et l'accompagnement de citoyens à la création de clubs sur le 70 et le 90. 
 
-# Mon temps de travail
+Je serais ravi(e) de compléter cette mission en parallèle, sur un second temps partiel basé dans le Nord Franche-Comté.
 
-Je suis **chargée de développement** 40h par mois en CDI pour [l'association régionale des CIGALES Bourgogne-Franche-Comté](https://www.cigales-bourgognefranchecomte.fr/). 
-Je suis donc disponible pour des missions à temps partiel.
-
-# Mon territoire d'intervention 
-Je peux travailler à distance et me déplacer sur la Bourgogne Franche-Comté selon les besoins de la mission. 
+Mes partenaires peuvent me contacter pour connaître mes souplesses de paiement (prestations, chèque emploi associatif...) 
