@@ -35,7 +35,7 @@ Disponible à [l'Imaginarium à Belfort](https://www.facebook.com/profile.php?id
 ![Couverture médecin]({% link images/Couverture livretsite.png %})
 
 - ### Plombier-chauffagiste : du confort au génie climatique     
-Pour [L'association Coeur de métiers](https://gamma.app/docs/Association-Cur-de-metiers-bzmxann4pd7xsf7?mode=doc)  
+Pour [L'association Coeur de métiers](https://coeurdemetiers-lw2c20n.gamma.site/#card-huad38uqj9s4xiy)  
 Collection Découverte des métiers en tension  
 Mai 2024  
 Disponible à [l'Imaginarium à Belfort](https://www.facebook.com/profile.php?id=61566910277324)  
