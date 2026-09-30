@@ -11,7 +11,7 @@ Via ma micro entreprise, **La Belle Ouvrage** :
 - J'écris des publications illustrées sur des métiers, des actions associatives ou sur l'histoire des personnes et des organisations. 
 - J'anime des ateliers de mobilisation (des publics et des partenaires) en intelligence collective
 
-![carte de visite]({% link images/Hélène Henry.png %})
+![Ma carte de visite]({% link images/Hélène Henry.png %})
 
 Rejoignez-moi sur [linkedin](https://www.linkedin.com/feed/)
 
