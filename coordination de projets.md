@@ -1,5 +1,5 @@
 ---
-title: "Appui au développement"
+title: "Coordination de projets"
 order: 2
 in_menu: true
 ---
@@ -15,6 +15,8 @@ Création de la **CIGALES Victoire** le 28 avril 2026 :   accompagnement du [ref
     - Rédaction d'un livret d'accueil pour les cigalier.es  
     - Représentation du mouvement dans les instances et évènements régionaux
 ![Ardoise]({% link images/Damassine 5.jpg %})
+    - Coordination d'un projet régional de CIGALES paysannes
+
 
   
 ## Pour [l’association In’Terre ActiV](https://interreactiv.assoconnect.com/page/420153-pourquoi-in-terre-activ) (90)  
