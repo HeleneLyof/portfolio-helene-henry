@@ -13,6 +13,6 @@ Je suis chargée de missions au service de l’Économie Sociale et Solidaire, v
 ![Ma carte de visite]({% link images/Hélène Henry.png %})
 
 Je suis également **chargée de développement** en CDI à temps partiel pour [l'association régionale des CIGALES Bourgogne-Franche-Comté](https://www.cigales-bourgognefranchecomte.fr/). 
-J'exerce en toute autonomie des tâches polyvalentes sur le développement de la gouvernance de l'association, sur la visibilité de l'offre de services et l'accompagnement de citoyens à la création de clubs sur le 70 et le 90. 
+J'exerce en toute autonomie des tâches polyvalentes sur le développement de la gouvernance de l'association, sur la visibilité de l'offre de services, le montage et la coordination des CIGALES paysannes, ainsi que l'accompagnement de citoyens à la création de clubs sur le 70 et le 90. 
 
 Rejoignez-moi sur [linkedin](https://www.linkedin.com/feed/) 
