@@ -3,4 +3,4 @@ title: "Mon CV"
 order: 1
 in_menu: true
 ---
-![CV]({% link images/CV soutien aux structures et aux publics.png %}) 
+![Mon CV]({% link images/CV Scribouilli 30 sept 26.png %}) 
