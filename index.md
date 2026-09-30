@@ -11,6 +11,7 @@ J'écris également des publications illustrées sur des métiers, des actions a
 
 ![Carte de visite]({% link images/Hélène Henry.png %})
 
+
 Rejoignez-moi sur [linkedin](https://www.linkedin.com/feed/)
 
 
