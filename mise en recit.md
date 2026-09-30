@@ -29,7 +29,7 @@ Disponible à la Capeb 6 rue du Rhône à Belfort
 
 - ### Conversation avec un médecin de ville
 Hors-série  
-Pour [L'association Coeur de métiers](https://gamma.app/docs/Association-Cur-de-metiers-bzmxann4pd7xsf7?mode=doc)  
+Pour [L'association Coeur de métiers](https://coeurdemetiers-lw2c20n.gamma.site/#card-huad38uqj9s4xiy)  
 Janvier 2025  
 Disponible à [l'Imaginarium à Belfort](https://www.facebook.com/profile.php?id=61566910277324)  
 ![Couverture médecin]({% link images/Couverture livretsite.png %})
