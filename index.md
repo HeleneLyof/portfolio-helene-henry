@@ -5,7 +5,7 @@ in_menu: true
 ---
 # Mon métier 
 
-“Je suis chargée de missions au service de l’Économie Sociale et Solidaire, via ma micro entreprise, **La Belle Ouvrage** : 
+Je suis chargée de missions au service de l’Économie Sociale et Solidaire, via ma micro entreprise, **La Belle Ouvrage** : 
 - J'accompagne, je soutiens et je coordonne des projets pour les structures de l'ESS en valorisant la participation de tous les acteurs. 
 - J'écris des publications illustrées sur des métiers, des actions associatives ou sur l'histoire des personnes et des organisations. 
 - J'anime des ateliers de mobilisation (des publics et des partenaires) en intelligence collective
