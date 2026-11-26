@@ -10,10 +10,10 @@ Création de la **CIGALES Victoire** le 28 avril 2026 :   accompagnement du [ref
 ![Logo]({% link images/logo cvsb.jpg %})
 
 Développement d'une CIGALES paysanne en Haute-Sâone
-![Fly]({% link images/Co-construction dUNE CIGALES Paysanne.png %})
+![Fly]({% link images/Coconstruction_dUNE_CIGALES_PaysanneCRESS.png %})
 
 Développement d'une CIGALES sur le rachat du hameau Le Beuchot en Haute-Saône.
-![Texte décrivant l'image]({% link images/Fly_Le Beuchot-121226.jpg %})
+![fly]({% link images/Fly_Le Beuchot-121226.jpg %})
 
 
 - ### Appui à la gouvernance  
