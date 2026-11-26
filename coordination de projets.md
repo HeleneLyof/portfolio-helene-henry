@@ -9,6 +9,8 @@ En CDI 40 h par mois depuis fév 2026
 Création de la **CIGALES Victoire** le 28 avril 2026 :   accompagnement du [refuge animalier associatif CVSB](https://www.facebook.com/profile.php?id=100094593875586)
 ![Logo]({% link images/logo cvsb.jpg %})
 
+**Ligne de test**
+
 Développement d'une CIGALES paysanne et d'une CIGALES sur le rachat du hameau Le Beuchot en Haute-Saône.
 
 
