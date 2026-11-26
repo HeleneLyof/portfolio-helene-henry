@@ -9,8 +9,16 @@ _"Mon métier : mettre en lumière la valeur inestimable de chaque contribution 
 
 - ### Dialogue environnemental
 Pour [FNE  Bourgogne-Franche-Comté](https://www.fne-bfc.fr/)  
-Octobre-décembre 2025  
+**LA MOBILITÉ** Octobre-décembre 2025  
 ![Couverture DE]({% link images/DEsite.jpg %})
+
+Décembre 2026 - Avril 2027
+
+**LA SOBRIÉTÉ** Novembre 2026- Avril 2027
+
+Communautés de communes d'Avallon Véelay Morvan et Val de Morteau
+
+
 
 - ### PREFIGS  
 Récit de projet associatif  
